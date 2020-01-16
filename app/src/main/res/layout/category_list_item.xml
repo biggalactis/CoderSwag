@@ -7,7 +7,7 @@
     android:layout_height="150dp">
 
     <ImageView
-        android:id="@+id/categoryimage"
+        android:id="@+id/categoryImage"
         android:layout_width="0dp"
         android:layout_height="150dp"
         android:layout_marginTop="8dp"
@@ -28,8 +28,8 @@
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/categoryimage"
-        app:layout_constraintStart_toStartOf="@+id/categoryimage"
-        app:layout_constraintTop_toTopOf="@+id/categoryimage"
+        app:layout_constraintEnd_toEndOf="@+id/categoryImage"
+        app:layout_constraintStart_toStartOf="@+id/categoryImage"
+        app:layout_constraintTop_toTopOf="@+id/categoryImage"
         tools:text="HATS" />
 </androidx.constraintlayout.widget.ConstraintLayout>
